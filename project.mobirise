@@ -28,7 +28,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -2848,13 +2848,13 @@
             "overlayOpacity": 0.5
           },
           "title": "Rhosilli Bay",
-          "text": "Video courtesy of Blusnapper",
+          "text": "Video couresty Blusnapper",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-1l"
+          "_anchor": "header4-1m"
         },
         {
           "_params": {
