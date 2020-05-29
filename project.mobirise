@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-19_1014",
-    "currentPage": "Suite 1.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 55,
+    "uniqCompNum": 58,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -2758,6 +2758,140 @@
           "_anchor": "gallery1-1h"
         },
         {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/XR_uxdxXOec?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=XR_uxdxXOec",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Three Cliffs",
+          "text": "Video by Skydronauts&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1j"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/SwltqzENqQs?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=SwltqzENqQs",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Dolphins off Port Eynon",
+          "text": "Video courtesy of Gower Coastal Adventures",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1k"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/SwltqzENqQs?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=SwltqzENqQs",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Rhosilli Bay",
+          "text": "Video courtesy of Blusnapper",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1l"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Culver House Hotel\nPort Eynon\nGower\nSWANSEA\nSA3 1NN",
+              "placeId": "ChIJh3M8PYuTbkgR3p4MILmf9uw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN<br><br><br>\n<strong>Contacts</strong><br>\nEmail: stay@culverhousehotel.co.uk<br>\nPhone: +44 (0)1792 720300<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">F</a>acebook</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "font-size": "24px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-1d"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2859,41 +2993,6 @@
             }
           },
           "_anchor": "contacts3-1e"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Culver House Hotel\nPort Eynon\nGower\nSWANSEA\nSA3 1NN",
-              "placeId": "ChIJh3M8PYuTbkgR3p4MILmf9uw",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN<br><br><br>\n<strong>Contacts</strong><br>\nEmail: stay@culverhousehotel.co.uk<br>\nPhone: +44 (0)1792 720300<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">F</a>acebook</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "font-size": "24px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "contacts2-1d"
         }
       ]
     }

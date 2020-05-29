@@ -810,12 +810,12 @@ section.form .container {
 #header3-1i .mbr-section-subtitle {
   text-align: center;
 }
-#contacts3-1e SPAN {
-  text-align: left;
-}
 #contacts2-1d STRONG {
   font-size: 24px;
 }
 #contacts2-1d P {
   font-size: 20px;
+}
+#contacts3-1e SPAN {
+  text-align: left;
 }
