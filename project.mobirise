@@ -2417,7 +2417,7 @@
             "bgColor": "#fff"
           },
           "title": "Images of Gower",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "Just some of the good bits",
           "_tags": [
             "Theme"
           ],
@@ -2497,8 +2497,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/07-640x426.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/07-640x426-640x426.jpg",
+                "image": "@PROJECT_PATH@/assets/images/07-640x426.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/07-640x426-512x340.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
