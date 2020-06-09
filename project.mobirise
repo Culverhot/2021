@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-19_1014",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 59,
+    "uniqCompNum": 100,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -198,7 +198,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN<br><br><br>\n<strong>Contacts</strong><br>\nEmail: stay@culverhousehotel.co.uk<br>\nPhone: +44 (0)1792 720300<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">F</a>acebook</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><br></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -270,13 +270,13 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "title1": "",
+          "text1": ".",
           "text2": "+44 (0)1792 720300",
           "text3": "Port Eynon Gower SWANSEA SA3 1NN",
           "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>SWANSEA<br>SA3 1NN",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
           "form": {
             "title": "MESSAGE",
             "action": "culverhot@aol.com",
@@ -320,7 +320,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": 2,
         "meta_image": "@THEME_PATH@/components/_images/gallery/preview.jpg"
       },
       "components": [
@@ -716,18 +716,19 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite1.html#msg-box2-14",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/09-8-560x398.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite2.html#msg-box2-1n",
               "alt": "",
               "title": ""
             }
@@ -738,9 +739,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite3.html#msg-box2-1s",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -749,9 +751,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite4.html#msg-box2-1x",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -764,24 +767,24 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
             }
           },
           "title1": "Suite 1",
-          "subtitle1": "1 Bedroom Budget Suite",
-          "caption1": "A charming compact suite tucked away at the side of the main building.  It doesn't have any views but is ideal if you are going to spend most of your time 'in' the view.<br><br><br><br>",
+          "subtitle1": "1 Bedroom Budget Suite sleeps 2 adults",
+          "caption1": "A charming compact suite tucked away at the side of the main building with small south facing garden area. .  It doesn't have any views but is ideal if you are going to spend most of your time 'in' the view.<br><br><br><br>",
           "title2": "Suite 2",
-          "subtitle2": "1 Bedroom Ground Floor Suite",
+          "subtitle2": "1 Bedroom Ground Floor Suite sleeps 2 adults",
           "caption2": "Spacious one bedroom garden suite on the ground floor. Comprises bedroom with king sized bed and en-suite shower bathroom. Open plan kitchen/living/dining room with large bay windows opening onto a small south facing floral garden with views across the dunes. Ramped entrance from the Car Park.<br><br>",
           "title3": "Suite 3",
-          "subtitle3": "1 Bedroom Ground Floor Suite",
+          "subtitle3": "1 Bedroom Ground Floor Suite sleeps 2 adults.",
           "caption3": "Spacious one bedroom  garden suite on the ground floor.  Comprises bedroom with double bed and en-suite wet room  shower bathroom. Open plan kitchen/living/dining room with large bay windows opening onto a  small south facing floral garden with views across the dunes. Ramped entrance from the Car Park.",
           "title4": "Suite 4",
-          "subtitle4": "1 Bedroom Budget Suite",
-          "caption4": "Ground Floor one bedroom Suite with own separate entrance. Combined lounge/bedroom with en-suite shower bathroom and kitchen/diner<br><br><br><br>",
+          "subtitle4": "1 Bedroom Budget Suite sleeps 2 adults.",
+          "caption4": "Ground Floor one bedroom Suite with own separate entrance. Combined lounge/bedroom with en-suite shower bathroom and kitchen/diner. No sea views this &nbsp;quiet, light and airy bijoux &nbsp;Suite looks out over woodland on one side and our wood cabin laundry to the side.<br><br><br><br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -789,9 +792,9 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"Suite 1.html#gallery3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"suite2.html#msg-box2-1n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"suite3.html#msg-box2-1s\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"suite4.html#msg-box2-1x\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -829,9 +832,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite5.html#msg-box2-22",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -840,9 +844,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite6.html#msg-box2-27",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -851,20 +856,22 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite7.html#msg-box2-2c",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-3181-600x450.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "suite8.html#msg-box2-2h",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -877,34 +884,34 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
             }
           },
           "title1": "Suite 5",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "First floor two bedroomed Apartment with balcony and sea views.<br>Sleeps 4 adults",
+          "caption1": "A Substantial two bedroom apartment on the first floor. Open plan kitchen/living/dining room with bay windows opening onto a superb balcony with stunning sea views.  One double and one twin/double bedroom with separate shower bathroom. Perfect for two couples or family.",
           "title2": "Suite 6",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "First floor two bedroom apartment with balcony and sea views sleeps 3 adults.",
+          "caption2": "A two bedroom apartment with sea views from both bedrooms.&nbsp;Open plan kitchen/living/dining room with bay windows opening onto a superb balcony with stunning sea views.&nbsp; One king and one single bedroom. Single bedroom can accomodate 2 small children with extra matress on the floor. Separate shower bathroom.",
           "title3": "Suite 7",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "Second floor one bedroom Apartmentwith Julliet balcony and sea views.&nbsp;<br>Sleeps 2 adults.",
+          "caption3": "A one bedroom apartment with en-suite shower bathroom on the top floor. Open plan kitchen/living/dining room with julliet balcony in front with &nbsp;full sized opening glass door offering stunning sea views.&nbsp;",
           "title4": "Suite 8",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "Second &nbsp;floor two bedroom apartment with small &nbsp;balcony and sea views sleeps 3 adults.",
+          "caption4": "A two bedroom apartment with sea views from both bedrooms. Open plan kitchen/living/dining room with bay windows opening onto a small balcony with stunning sea views.  One king and one single bedroom. Single bedroom can accomodate 2 small children with extra matress on the floor. Separate shower bathroom.i",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"suite5.html#msg-box2-22\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"suite6.html#msg-box2-27\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"suite7.html#msg-box2-2c\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"suite8.html#msg-box2-2h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -1029,7 +1036,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1037,16 +1044,16 @@
           },
           "title1": "Ship Inn",
           "subtitle1": "Port Eynon 0.1 mls",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Located in the heart of Port Eynon, Gower. The Ship Inn is a family run pub that provides a warm and welcoming environment to all visiting the Gower coast. The decor provides a distinctly cosy and nautical theme. &nbsp;Completely dog friendly.<br><br>www.shipinngower.co.uk",
           "title2": "Smuggler's Beach Bar &amp; Kichen",
           "subtitle2": "Port Eynon 0.2 mls",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Newly refurbished beachy themed Bar and kitchen with pub/cafe style menu on the seafront in Port Eynon.<br>",
           "title3": "King Arthur",
           "subtitle3": "Reynoldston 4.2 mls",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Traditional &nbsp;popular country pub bordering common land in the heart of reynoldston.<br><br>",
           "title4": "Brittania Inn",
           "subtitle4": "Llanridian 6.8 mls",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Traditional 17th century bar with elegant cosy restaurant. Extensive range of home cooked food. Overlooking the estuary.<br><br>wwwbrittaniagower.com",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1148,7 +1155,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1156,16 +1163,16 @@
           },
           "title1": "The Beach House",
           "subtitle1": "Oxwich 4 mls",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Gowers first michelin starred restuarant, fine dinning in relaxed atmosphere on the beach at Oxwich.<br><br>www.beachhouseoxwich.co.uk",
           "title2": "Bay Bistro",
           "subtitle2": "Rhosilli 5.3 mls",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "overlooking &nbsp;Rhosilli beach Our seasonal menu is freshly prepared daily, with ingredients sourced from local small-holders and suppliers.<br>wwwthebaybistro.co.uk ",
           "title3": "Worm's Head",
           "subtitle3": "Rhosilli 5.3 mls",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Great views accross Rhosilli bay, traditional pub style menu.<br><br>",
           "title4": "Oxwich Bay",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "<br>located on the edge of Oxwich beach the restaraunt is open from 8.30 - 8.30. Also serving snacks and one of the few places who serve afternoon tea.<br><br>",
+          "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1267,7 +1274,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1275,16 +1282,16 @@
           },
           "title1": "Seafarer",
           "subtitle1": "Port Eynon 0.2 mls",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Cafe style fish and chip shop serving breakfast in the season. located on the beach front in Port Eynon.",
           "title2": "Captain's Table",
           "subtitle2": "Port Eynon 0.2 mls",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Coffee Houes",
-          "subtitle3": "Port Eynon 0.1 mls",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption2": "Cafe style fish and chip shop serving breakfast in the season. located on the beach front in Port Eynon.",
+          "title3": "Coffee House",
+          "subtitle3": "Port Eynon 0.1 mls<br>Quirky little coffee house adjacent to the surf shop. Big range of teas and coffees, cake and panninis. &nbsp;Gets great reviews.",
+          "caption3": "",
           "title4": "Chips Ahoy",
           "subtitle4": "Scurlage 1.8 mls",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Traditional fish and chips plus all the usual suspects",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1338,7 +1345,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Things to Do",
-          "text": "A wide vatiety of activities and places to visit",
+          "text": "A haven for walkers, wildlife and sports enthusiasts; there is so much to do or you can just relax on the beach.activities and places to visit",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
@@ -1424,24 +1431,24 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
             }
           },
           "title1": "Beaches",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "",
+          "caption1": "Our Gower beaches are &nbsp;extremely varied from tiny litlle coves to vast expanses of sand and sea and the poular family beaches with safe bathing as in Port Eynon. To find out more click the link below.",
           "title2": "Windsurfing &amp; Surfing",
-          "subtitle2": "&nbsp;&amp; SurfingOne of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "&nbsp;",
+          "caption2": "Port Eynon is a great bay for windsurfing and as we are so close to the beach it is ideal - not too far to carry your gear!<br><br>There are a number of surf schools on Gower, Caswell, Langland and Rhosilli are the best surfing beaches.",
           "title3": "Climbing &amp; Coasteering",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "Coasteering<div><br></div><div>Enjoy an adrenaline filled day out doing crazy things by the sea.</div><div><br></div><div><br></div>",
+          "caption3": "",
           "title4": "Cycling",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "Cycling is becoming a big participation sport and Gower is becoming a popular location for those pationate to beat their last best time. There are also trails for mountain bikes to follow. Click on the link below to discover more.",
+          "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1543,24 +1550,24 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
             }
           },
           "title1": "Walking",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "",
+          "caption1": "There are many lovely walks to take accross and around the Gower peninsular. We have walking guides in each of the suites - circular walks on Gower are particularly popular as you end up back where you started out. The bus system on Gower is a little challenging but connections can be found to get you back from the end of a walk with some thought and planning.",
           "title2": "Paddleboarding",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Paragliding",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "PARAGLIDING",
+          "subtitle3": "",
+          "caption3": "Rhossili downs above rhosilli beach is a popular spot for paragliders.",
           "title4": "Horsey Things",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "Due to the rocketing cost of insurance several of the trail yards have closed in the last 20 years. However, you can hire horses to ride to the beach with Clyne farm in Mayals tel: 01792 403333<br><div><br></div><br><div>Travel a little farther afield (60 mins) will bring you to Pembrey Park Riding Centre tel: 01554 835191&nbsp;</div><br><div>Here they provide safe riding at every ability level through 2000 acres of woodland and beach.</div><br><br><div>If you want to bring your own horse on holiday, horse bed and breakfast is available by arrangement with Tankey Lake Farm Llangenith. Lovely friendly yard with superb safe riding from the gate over common land and down to some of our fantastic beaches. &nbsp;I know because I keep my horse there.</div>",
+          "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1681,7 +1688,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1775,7 +1782,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN<br><br><br>\n<strong>Contacts</strong><br>\nEmail: stay@culverhousehotel.co.uk<br>\nPhone: +44 (0)1792 720300<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">F</a>acebook</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><br></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1847,13 +1854,13 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "title1": "",
+          "text1": ".",
           "text2": "+44 (0)1792 720300",
           "text3": "Port Eynon Gower SWANSEA SA3 1NN",
           "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>SWANSEA<br>SA3 1NN",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
           "form": {
             "title": "MESSAGE",
             "action": "culverhot@aol.com",
@@ -1895,11 +1902,2126 @@
         }
       ]
     },
-    "Suite 1.html": {
+    "suite2.html": {
+      "settings": {
+        "meta_descr": "Suite 2 Culver House Hotel",
+        "title": "Suite 2",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUITE 2",
+          "text": "Ground Floor One Bedroom Suite",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1n"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888-800x1155.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/04-04-2-152x114.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04-04-2-152x114-152x114.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/09-08-2-152x108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/09-08-2-152x108-152x108.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/11-011-2-114x152.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-011-2-114x152-114x152.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3164-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3164-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3159-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3159-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;",
+          "text": "<br><br><div>Spacious one bedroom garden suite on the ground floor. Comprises bedroom with king sized bed and en-suite shower bathroom. Open plan kitchen/living/dining room with large bay windows opening onto a small south facing floral garden with views across the dunes. Ramped entrance from the Car Park.<br><div><b><br></b></div></div><br><div><div><b>What's in the Suite?</b></div><div><i>King size &nbsp;(160cm) bed</i></div><div><i>All bedding, towels and toileteries</i></div><div><i>Kitchen with full oven and hob</i></div><div><i>Refridgerator with small freezer compartment</i></div><div><i>Kettle, filter coffee machine</i></div><div><i>Dishwasher</i></div><div><i>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</i></div><div><i>Pots, pans and a full array of utensils</i></div><div><i>Crockery and cutlery</i></div><div><i>There is a pack of fresh filter coffee, tea bags milk and sugar</i></div><div><i>50in TV with Sky movies and catch up TV</i></div><div><i>Free WiFi</i></div><div><i>Alexa dot speaker</i></div><div><i><br></i></div><div><i>There is also access to a laundry room with Washer/Dryer (160cm) bed</i></div><div><br></div></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box1-1p"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1q"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-1r"
+        }
+      ]
+    },
+    "suite3.html": {
+      "settings": {
+        "meta_descr": "Suite 3 Culver House Hotel",
+        "title": "Suite 3",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUITE 3",
+          "text": "Ground Floor One Bedroom Suite",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1s"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888-800x1155.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03l-486x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03l-486x420-486x420.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-1-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-1-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/06-5-560x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/06-5-560x420-560x420.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/05-1-152x114.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/05-1-152x114-152x114.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-625-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-625-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-1-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20181019-122017-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181019-122017-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1t"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;",
+          "text": "<br><br><div>&nbsp;Spacious one bedroom  garden suite on the ground floor.  Comprises bedroom with double bed and en-suite wet room  shower bathroom. Open plan kitchen/living/dining room with large bay windows opening onto a  small south facing floral garden with views across the dunes. Ramped entrance from the Car Park.</div><div><br></div><div><div><b>What's in the Suite?</b></div><div><i>Double (140cm) bed</i></div></div><div><i>All bedding, towels and toileteries</i></div><div><i>Kitchen with full oven and hob</i></div><div><i>Refridgerator with small freezer compartment</i></div><div><i>Kettle, filter coffee machine</i></div><div><i>Dishwasher</i></div><div><i>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</i></div><div><i>Pots, pans and a full array of utensils</i></div><div><i>Crockery and cutlery</i></div><div><i>There is a pack of fresh filter coffee, tea bags milk and sugar</i></div><div><i>50in TV with Sky movies and catch up TV</i></div><div><i>Free WiFi</i></div><div><i>Alexa dot speaker</i></div><div><i><br></i></div><div><i>There is also access to a laundry room with Washer/Dryer</i></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box1-1u"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1v"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-1w"
+        }
+      ]
+    },
+    "suite4.html": {
+      "settings": {
+        "meta_descr": "Suite 4 Culver House Hotel",
+        "title": "Suite 4",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUITE 4",
+          "text": "One Bedroom Budget Suite, Ground Floor",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1x"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888-800x1155.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03-l-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03-l-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s3-5-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s3-5-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3141-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3141-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/06-l-684x486.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/06-l-684x486-684x486.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/01-l-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-l-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s4-2-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s4-2-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;",
+          "text": "Charming 1 bedroom compact suite tucked away behind the main building &nbsp;with own separate entrance accessed via 2 shallow steps with handrail. Comprising one bed/living room with double bed and two seater leather sofa with en-suite shower bathroom and adjoining Kitchen dining room. We term it a budget suite because it is smaller than our other Suites and doesn't have any views looking out at woodland on one side and our wood cabin laundry to the side. This is reflected in the pricing. <br><div>&nbsp;However if you are out in the view all day this may not be key to you and it is a comfortable, well equipped and economic place to stay.&nbsp;<br><br><div><b>What's in the Suite &nbsp;?</b></div></div><br><div><div><b>Double (140cm) bed</b></div><div><b>All bedding, towels and toileteries</b></div><div><b>Kitchen with full oven and hob</b></div><div><b>Refridgerator with small freezer compartment</b></div><div><b>Kettle, filter coffee machine</b></div><div><b>Dishwasher</b></div><div><b>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</b></div><div><b>Pots, pans and a full array of utensils</b></div><div><b>Crockery and cutlery</b></div><div><b>There is a pack of fresh filter coffee, tea bags milk and sugar</b></div><div><b>50in TV with Sky movies and catch up TV</b></div><div><b>Free WiFi</b></div><div><b>Alexa dot speaker</b></div><div><br></div></div><br><div><div><b><br></b></div><div><br></div></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box1-1z"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-20"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-21"
+        }
+      ]
+    },
+    "suite5.html": {
+      "settings": {
+        "meta_descr": "Suite 5 Culver House Hotel",
+        "title": "Suite 5",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUITE 5<br>",
+          "text": "Two Bedroom First floor Suite<br><br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-22"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1st-floor-colour-coded-2000x1585.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1st-floor-colour-coded-2000x1585-800x634.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/01-l-2-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-l-2-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03-l-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03-l-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6a-256x384.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6a-256x384-256x384.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03-l-1-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03-l-1-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-605-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-605-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s3-5-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s3-5-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/suite-1c-1944x2592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/suite-1c-1944x2592-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;",
+          "text": "<div><b>First floor two bedroomed Suite with balcony and great sea views. Sleeps 4 adults.</b></div><div><b><br></b></div><div><b>Combined lounge/kitchen/diner with large french windows &nbsp;bringing the view of the bay into the room. French doors open out onto a lovely &nbsp;balcony where you can sit and admire the view. The main bedroom has a king size bed and the second &nbsp;can be made up as either a twin or king size double. There is a large separate shower bathroom.&nbsp;</b></div><div><b><br></b></div><br><div><b>What's in the Suite?</b></div><br><div><i>Main bedroom king size (160cm) bed</i></div><div><i>Second bedroom Twin 90cm beds or King size (180 cm) bed</i></div><div><i>All bedding, towels and toileteries</i></div><div><i>Kitchen with full oven and hob</i></div><div><i>Refridgerator with small freezer compartment</i></div><div><i>Kettle, filter coffee machine</i></div><div><i>Dishwasher</i></div><div><i>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</i></div><div><i>Pots, pans and a full array of utensils</i></div><div><i>Crockery and cutlery</i></div><div><i>There is a pack of fresh filter coffee, tea bags milk and sugar</i></div><div><i>50in TV with Sky movies and catch up TV</i></div><div><i>Free WiFi</i></div><div><i>Alexa dot speaker</i></div><div><i><br></i></div><div><i>There is also access to a laundry room with Washer/Dryer</i></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box1-24"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-25"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-26"
+        }
+      ]
+    },
+    "suite8.html": {
+      "settings": {
+        "meta_descr": "Suite 8 Culver House Hotel",
+        "title": "Suite 8",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUITE 8",
+          "text": "Second floor two bedroomed Suite with small balcony, sleeps 3 adults.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2h"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-609-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-609-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s3-2-456x684.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s3-2-456x684-456x684.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888-800x1155.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03-l-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03-l-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s3-5-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s3-5-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-612-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-612-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s3-2-456x684.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s3-2-456x684-456x684.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-605-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-605-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s3-5-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s3-5-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/suite-1c-1944x2592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/suite-1c-1944x2592-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-2i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;",
+          "text": "First floor two bedroomed Suite with small balcony and sea views from lounge and both bedrooms, sleeps 3 adults.&nbsp;<br><br>A Lovely two bedroom apartment on the second floor. Open plan kitchen/living/dining room with full sized glass door  opening onto a small balcony with spectacular views of the sea,  beach and the bay.   One bedroom with king sized &nbsp;bed and one single bedroom with ready bed or cot available. for extra child. Sea views from Lounge and both bedrooms. Separate  shower bathroom.<div><b><br></b></div><br><div><b>What's in the Suite?</b></div><br><div>Main bedroom king size (160cm) bed</div><div>Single bedroom  single (90cm) bed plus single (90 cm) pull out floor matress</div><div>All bedding, towels and toileteries</div><div>Kitchen with full oven and hob</div><div>Refridgerator with small freezer compartment</div><div>Kettle, filter coffee machine</div><div>Dishwasher</div><div>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</div><div>Pots, pans and a full array of utensils</div><div>Crockery and cutlery</div><div>There is a pack of fresh filter coffee, tea bags milk and sugar</div><div>50in TV with Sky movies and catch up TV</div><div>Free WiFi</div><div>Alexa dot speaker</div><div><br></div><div>There is also access to a laundry room with Washer/Dryer</div><br><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box1-2j"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2k"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2l"
+        }
+      ]
+    },
+    "suite1.html": {
       "settings": {
         "meta_descr": "Suite 1 Culver House Hotel",
         "title": "Suite 1",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1958,23 +4080,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/02-l-456x684.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/02-l-456x684-456x684.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-609-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-609-2000x1494-800x598.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -1985,7 +4096,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/s3-2-456x684-456x684.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1996,7 +4108,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gnd-floor-colour-coded-2000x2888-800x1155.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -2041,6 +4154,42 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-605-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-605-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s3-5-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s3-5-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/suite-1c-1944x2592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/suite-1c-1944x2592-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -2073,8 +4222,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "",
-          "text": "Suite 1 is tucked away at the side of the hotel.  It has its own separate entrance and small garden and sitting are wich faces south and is something of a sun trap.  It comprises a lounge/kitchen diner, double bedroom with separate shwer bathroom.  It is a budget suite mainly because it doesn't have any views it looks out at a fence.  However if you are out in the view all day this may not be key to you and it is a comfortable, wellequipped and economic place to stay<div><b>What's in the Suite?</b></div><div><i>Double (140cm) bed</i></div><div><i>All bedding and towels</i></div><div><i>Kitchen with full oven and hob</i></div><div><i>Refridgerator</i></div><div><i>Kettle, filter coffee machine</i></div><div><i>Pots, pans and a full array of utensils</i></div><div><i>There is a pack of fresh filter coff, tea bags milk and sugar</i></div><div><i>50in TV with Sky movies and catch up TV</i></div><div><i>Free WiFi</i></div><div><i>Alexa dot speaker</i></div>",
+          "title": "&nbsp;",
+          "text": "Suite 1 is tucked away at the side of the hotel.  It has its own separate entrance and small south facing garden and sitting area which is something of a sun trap.  It comprises a lounge/kitchen diner, double bedroom with separate shower bathroom. &nbsp;We term it a budget suite because it is smaller than our other Suites and doesn't have any views looking out at a fence to the side. This is reflected in the pricing. However if you are out in the view all day this may not be key to you and it is a comfortable, well equipped and economic place to stay.<br><br><div><b>What's in the Suite?</b></div><div><i><br></i></div><div><i>Double (140cm) bed</i></div><div><i>All bedding, towels and toileteries</i></div><div><i>Kitchen with full oven and hob</i></div><div><i>Refridgerator with small freezer compartment</i></div><div><i>Kettle, filter coffee machine</i></div><div><i>Dishwasher</i></div><div><i>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</i></div><div><i>Pots, pans and a full array of utensils</i></div><div><i>Crockery and cutlery</i></div><div><i>There is a pack of fresh filter coffee, tea bags milk and sugar</i></div><div><i>50in TV with Sky movies and catch up TV</i></div><div><i>Free WiFi</i></div><div><i>Alexa dot speaker</i></div><br><div><i>There is also access to a laundry room with Washer/Dryer</i></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
           "_tags": [
             "Theme"
@@ -2248,13 +4397,13 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "title1": "",
+          "text1": ".",
           "text2": "+44 (0)1792 720300",
           "text3": "Port Eynon Gower SWANSEA SA3 1NN",
           "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>SWANSEA<br>SA3 1NN",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
           "form": {
             "title": "MESSAGE",
             "action": "culverhot@aol.com",
@@ -2296,11 +4445,11 @@
         }
       ]
     },
-    "page3.html": {
+    "gallery.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Gower Gallery",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -2772,8 +4921,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/XR_uxdxXOec?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=XR_uxdxXOec",
+              "url": "https://www.youtube.com/embed/pcmNzM7HaH4?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=pcmNzM7HaH4&t=45s",
               "width": 1280,
               "height": 720
             },
@@ -2876,7 +5025,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN<br><br><br>\n<strong>Contacts</strong><br>\nEmail: stay@culverhousehotel.co.uk<br>\nPhone: +44 (0)1792 720300<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">F</a>acebook</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><br></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -2948,13 +5097,13 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "title1": "",
+          "text1": ".",
           "text2": "+44 (0)1792 720300",
           "text3": "Port Eynon Gower SWANSEA SA3 1NN",
           "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>SWANSEA<br>SA3 1NN",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
           "form": {
             "title": "MESSAGE",
             "action": "culverhot@aol.com",
@@ -2993,6 +5142,1138 @@
             }
           },
           "_anchor": "contacts3-1e"
+        }
+      ]
+    },
+    "suite.html": {
+      "settings": {
+        "meta_descr": "Suite 6 Culver House Hotel",
+        "title": "Suite 7",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUITE 7",
+          "text": "One bedroom Suite, Second &nbsp;floor",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-27"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/01-l-1-560x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-l-1-560x420-560x420.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/02-l-1-456x684.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02-l-1-456x684-456x684.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03-l-560x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03-l-560x420-560x420.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/04-l-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04-l-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/06-l-560x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/06-l-560x420-560x420.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/05-l-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/05-l-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-3-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-3-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-652-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-652-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-657-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-657-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-28"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;",
+          "text": "<div>Second Floor- one bedroom Suite &nbsp; &nbsp;&nbsp;</div><div><br></div><div>Combined lounge/kitchen/diner; with julliet balcony,double bedroom and en-suite shower bathroom.</div><div>&nbsp;</div><div>A Charming one bedroom Suite on the second floor with standard double bed and en-suite shower bathroom. Open plan kitchen/living/dining room with full sized glass door  opening onto a small balcony with spectacular views of the sea,  beach and the bay.&nbsp;</div><div>.</div><div><br><div><b>What's in the Suite?</b></div></div><br><div><div>Double (140cm) bed</div></div><div>All bedding, towels and toileteries</div><div>Kitchen with full oven and hob</div><div>Refridgerator with small freezer compartment</div><div>Kettle, filter coffee machine</div><div>Dishwasher</div><div>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</div><div>Pots, pans and a full array of utensils</div><div>Crockery and cutlery</div><div>There is a pack of fresh filter coffee, tea bags milk and sugar</div><div>50in TV with Sky movies and catch up TV</div><div>Free WiFi</div><div>Alexa dot speaker</div><div><br></div><div>There is also access to a laundry room with Washer/Dryer</div><div>&nbsp;</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box1-29"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2a"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2b"
+        }
+      ]
+    },
+    "suite6.html": {
+      "settings": {
+        "meta_descr": "Suite 6 Culver House Hotel",
+        "title": "Suite 6",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUITE 6",
+          "text": "First floor two bedroomed Suite with balcony, sleeps 3 adults.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2c"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/06-l-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/06-l-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-1-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/02-l-2-456x684.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02-l-2-456x684-456x684.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/03-l-2-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03-l-2-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-1-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/04-l-1-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04-l-1-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/05-l-456x684.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/05-l-456x684-456x684.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-1-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1-2000x1494-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/suite-6-235-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/suite-6-235-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/100-3890-2000x975.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/100-3890-2000x975-800x390.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-1-1152x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1-1152x768-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s6-2-456x684.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s6-2-456x684-456x684.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s6-8-684x456.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s6-8-684x456-684x456.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-2d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;",
+          "text": "First floor two bedroomed Suite with balcony and sea views from lounge and both bedrooms, sleeps 3 adults.&nbsp;<div><br></div><div><br></div><div><br></div><div>Lovely two bedroom apartment on the first floor.  Open plan kitchen/living/dining room with bay windows bringing the view into the room and &nbsp;opening onto a superb balcony with stunning sea views. Main bedroom has king size bed and sea views. Second bedroom has its own balcony &nbsp;with sea view. &nbsp;Two small children could share this room if one sleeps on a floor matress or in a travel cot.<br><div><b><br></b></div></div><br><div><div><b>What's in the Suite?</b></div></div><br><div><div><b>Main bedroom king size (160cm) bed</b></div></div><div><div><b>Single bedroom &nbsp;single (90cm) bed plus single (90 cm) pull out floor matress</b></div></div><div><b>All bedding, towels and toileteries</b></div><div><b>Kitchen with full oven and hob</b></div><div><b>Refridgerator with small freezer compartment</b></div><div><b>Kettle, filter coffee machine</b></div><div><b>Dishwasher</b></div><div><b>Cleaning materials - dishwasher tablets, washing up liquid, tea towels</b></div><div><b>Pots, pans and a full array of utensils</b></div><div><b>Crockery and cutlery</b></div><div><b>There is a pack of fresh filter coffee, tea bags milk and sugar</b></div><div><b>50in TV with Sky movies and catch up TV</b></div><div><b>Free WiFi</b></div><div><b>Alexa dot speaker</b></div><div><b><br></b></div><div><b>There is also access to a laundry room with Washer/Dryer</b></div><div><div><b><br></b></div><div><br></div></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availabilty &amp; Book<br>CLICK HERE<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box1-2e"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": ""
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2f"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li>&lt;iframe src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=vzclkt7e47\" width=\"100%\" height=\"480\" seamless=\"seamless\" scrolling=\"no\" frameBorder=\"0\" allowFullScreen&gt;&lt;/iframe&gt;</li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2g"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Page 11",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.895rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header3-1i\" aria-expanded=\"false\">GOWER GALLERY<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": "",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2p"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Culver House Hotel\nPort Eynon\nGower\nSWANSEA\nSA3 1NN",
+              "placeId": "ChIJh3M8PYuTbkgR3p4MILmf9uw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN<br><br><br>\n<strong>Contacts</strong><br>\nEmail: stay@culverhousehotel.co.uk<br>\nPhone: +44 (0)1792 720300<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">F</a>acebook</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>nstagram</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">T</a>witter</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "font-size": "24px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-2q"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bestprice-1-262x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "",
+          "text1": ".",
+          "text2": "+44 (0)1792 720300",
+          "text3": "Port Eynon Gower SWANSEA SA3 1NN",
+          "text4": "<a href=\"mailto:support@mobirise.com\">s</a>tay@culverhousehotel.co.uk",
+          "text5": "<li></li>",
+          "text6": "<strong>Contacts</strong><br>Email: stay@culverhousehotel.co.uk<br>Phone: +44 (0)1792 720300<br><br><br><br><strong>Address</strong><br>Culver House Hotel<br>Port Eynon<br>Gower<br>SWANSEA<br>SA3 1NN",
+          "form": {
+            "title": "MESSAGE",
+            "action": "culverhot@aol.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telephone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Web site enquiry"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2r"
         }
       ]
     }
