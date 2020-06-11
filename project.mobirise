@@ -139,10 +139,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -607,10 +607,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.895rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -649,10 +649,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1405,9 +1405,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://www.goweractivitycentres.co.uk/about_us/activities/on_water/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -1444,7 +1445,7 @@
           "subtitle2": "&nbsp;",
           "caption2": "Port Eynon is a great bay for windsurfing and as we are so close to the beach it is ideal - not too far to carry your gear!<br><br>There are a number of surf schools on Gower, Caswell, Langland and Rhosilli are the best surfing beaches.",
           "title3": "Climbing &amp; Coasteering",
-          "subtitle3": "Coasteering<div><br></div><div>Enjoy an adrenaline filled day out doing crazy things by the sea.</div><div><br></div><div><br></div>",
+          "subtitle3": "Coasteering<div><br></div><div>Enjoy an adrenaline filled day out doing crazy things by the sea.</div><br><div>&nbsp;www.goweractivitycentres.co.uk</div><div>01792 390481</div>",
           "caption3": "",
           "title4": "Cycling",
           "subtitle4": "Cycling is becoming a big participation sport and Gower is becoming a popular location for those pationate to beat their last best time. There are also trails for mountain bikes to follow. Click on the link below to discover more.",
@@ -1513,9 +1514,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://www.goweractivitycentres.co.uk/about_us/activities/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -1524,9 +1526,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.pembrokeshireparagliding.com/copy-of-services",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -1560,13 +1563,13 @@
           "subtitle1": "",
           "caption1": "There are many lovely walks to take accross and around the Gower peninsular. We have walking guides in each of the suites - circular walks on Gower are particularly popular as you end up back where you started out. The bus system on Gower is a little challenging but connections can be found to get you back from the end of a walk with some thought and planning.",
           "title2": "Paddleboarding",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "PARAGLIDING",
-          "subtitle3": "",
-          "caption3": "Rhossili downs above rhosilli beach is a popular spot for paragliders.",
+          "subtitle2": "",
+          "caption2": "Port Eynon Bay is the perfect place to paddle board as the bay is large but very safe. There are two local suppliers of kit and lessons.<br><br>Beach house surf shop and cafe<br>www.goweractivitycentres.co.uk&nbsp;01792 390481<br>",
+          "title3": "PARAGLIDING &amp; KITESURFING",
+          "subtitle3": "&nbsp;",
+          "caption3": "Rhossili downs above rhosilli beach is a popular spot for paragliders. Upper paraglider launch site.- Rhossili, Swansea SA3 1PL<br><br>Kite sports South Wales - Gower Kite Surfing 01792 446511 // 07799 062 447<br>",
           "title4": "Horsey Things",
-          "subtitle4": "Due to the rocketing cost of insurance several of the trail yards have closed in the last 20 years. However, you can hire horses to ride to the beach with Clyne farm in Mayals tel: 01792 403333<br><div><br></div><br><div>Travel a little farther afield (60 mins) will bring you to Pembrey Park Riding Centre tel: 01554 835191&nbsp;</div><br><div>Here they provide safe riding at every ability level through 2000 acres of woodland and beach.</div><br><br><div>If you want to bring your own horse on holiday, horse bed and breakfast is available by arrangement with Tankey Lake Farm Llangenith. Lovely friendly yard with superb safe riding from the gate over common land and down to some of our fantastic beaches. &nbsp;I know because I keep my horse there.</div>",
+          "subtitle4": "&nbsp;Ride on the common orto the beach with Clyne farm in Mayals tel: 01792 403333<br><div><span style=\"font-size: 0.875rem; background-color: initial;\">Travel a little farther afield (60 mins) will bring you to Pembrey Park Riding Centre tel: 01554 835191&nbsp;</span><br></div><div>Here they provide safe riding at every ability level through 2000 acres of woodland and beach.</div><br><div>If you want to bring your own horse on holiday, horse bed and breakfast is available by arrangement with Tankey Lake Farm Llangenith, SA3 1DT 07876 451622 Lovely friendly yard with superb safe riding from the 0ate over common land and down to some of our fantastic beaches. &nbsp;</div>",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -1576,7 +1579,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.pembrokeshireparagliding.com/copy-of-services\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2191,10 +2194,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -2623,10 +2626,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -3029,10 +3032,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -3446,10 +3449,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -3874,10 +3877,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -4302,10 +4305,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -4515,10 +4518,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -5422,10 +5425,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -5890,10 +5893,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -6103,10 +6106,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",

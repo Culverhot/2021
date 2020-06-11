@@ -556,11 +556,11 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
 }
 #menu-d .link {
-  font-size: 1.75rem;
+  font-size: 0.6rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 1.895rem;
+  font-size: 0.650rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
