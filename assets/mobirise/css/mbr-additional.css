@@ -474,11 +474,11 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
 }
 #menu-b .link {
-  font-size: 1.75rem;
+  font-size: 0.6rem;
 }
 #menu-b .dropdown-item,
 #menu-b .nav-dropdown-sm .link {
-  font-size: 1.895rem;
+  font-size: 0.650rem;
 }
 #menu-b .link:hover,
 #menu-b .dropdown-item:hover,

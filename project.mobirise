@@ -97,10 +97,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.895rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1394,9 +1394,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://www.llangennithsurflessons.co.uk/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -1417,9 +1418,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.mbr.co.uk/routes/gower-peninsula-south-wales-medium-route-distance-35-2km-22-miles-252493",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
@@ -1443,7 +1445,7 @@
           "caption1": "Our Gower beaches are &nbsp;extremely varied from tiny litlle coves to vast expanses of sand and sea and the poular family beaches with safe bathing as in Port Eynon. To find out more click the link below.",
           "title2": "Windsurfing &amp; Surfing",
           "subtitle2": "&nbsp;",
-          "caption2": "Port Eynon is a great bay for windsurfing and as we are so close to the beach it is ideal - not too far to carry your gear!<br><br>There are a number of surf schools on Gower, Caswell, Langland and Rhosilli are the best surfing beaches.",
+          "caption2": "Port Eynon is a great bay for windsurfing and as we are so close to the beach it is ideal - not too far to carry your gear!<br><br>There are a number of surf schools on Gower, Caswell, Langland and Rhosilli are the best surfing beaches. Click on the photo and the more button to link to surf schools.",
           "title3": "Climbing &amp; Coasteering",
           "subtitle3": "Coasteering<div><br></div><div>Enjoy an adrenaline filled day out doing crazy things by the sea.</div><br><div>&nbsp;www.goweractivitycentres.co.uk</div><div>01792 390481</div>",
           "caption3": "",
@@ -1457,7 +1459,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.gowersurfingshop.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
