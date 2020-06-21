@@ -1024,11 +1024,11 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
 }
 #menu-2k .link {
-  font-size: 1.75rem;
+  font-size: 0.6rem;
 }
 #menu-2k .dropdown-item,
 #menu-2k .nav-dropdown-sm .link {
-  font-size: 1.895rem;
+  font-size: 0.650rem;
 }
 #menu-2k .link:hover,
 #menu-2k .dropdown-item:hover,
@@ -1489,4 +1489,89 @@ section.form .container {
 }
 #contacts2-2q P {
   font-size: 20px;
+}
+
+#msg-box2-2s .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-2s .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box1-2u .btn {
+  font-size: 23px;
+}
+#msg-box1-2u H2 {
+  color: #000000;
+}
+#menu-2v .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2v .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#menu-2v .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2v .close-icon::before,
+#menu-2v .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2v .link,
+#menu-2v .dropdown-item {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-2v .link {
+  font-size: 0.6rem;
+}
+#menu-2v .dropdown-item,
+#menu-2v .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-2v .link:hover,
+#menu-2v .dropdown-item:hover,
+#menu-2v .link:focus,
+#menu-2v .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-2v .link[aria-expanded="true"],
+#menu-2v .dropdown-menu {
+  background: #b3b3b3;
+}
+#menu-2v .nav-dropdown-sm .link:focus,
+#menu-2v .nav-dropdown-sm .link:hover,
+#menu-2v .nav-dropdown-sm .dropdown-item:focus,
+#menu-2v .nav-dropdown-sm .dropdown-item:hover {
+  background: #c4c4c4!important;
+}
+#menu-2v .navbar,
+#menu-2v .nav-dropdown-sm,
+#menu-2v .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2v .nav-dropdown-sm .dropdown-menu {
+  background: #cccccc;
+}
+#menu-2v .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2v .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2v .bg-color.transparent.opened .link:hover,
+#menu-2v .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-2v .link[aria-expanded="true"],
+#menu-2v .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-2v A {
+  font-size: 10px;
+}
+#menu-2v .btn {
+  font-size: 13px;
+}
+#contacts3-2w SPAN {
+  text-align: left;
 }
