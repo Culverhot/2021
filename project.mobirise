@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-19_1014",
-    "currentPage": "index.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -139,7 +139,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -151,7 +151,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -649,7 +649,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -661,7 +661,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2196,7 +2196,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -2208,7 +2208,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2628,7 +2628,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -2640,7 +2640,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3034,7 +3034,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -3046,7 +3046,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3451,7 +3451,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -3463,7 +3463,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3879,7 +3879,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -3891,7 +3891,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4307,7 +4307,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -4319,7 +4319,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4520,7 +4520,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -4532,7 +4532,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5427,7 +5427,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -5439,7 +5439,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5895,7 +5895,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -5907,7 +5907,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -6108,7 +6108,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -6120,7 +6120,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -6428,7 +6428,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -6440,7 +6440,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -6698,15 +6698,15 @@
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Food &amp; Drink<br><br><br><br>Pubs<br><br><br><br>    Ship Inn<br><br>    Smugglers Beach Bar &amp; Kitchen<br><br>    King Arthur<br><br>    Britannia<br><br>    The Welcome Country Pub &amp; Kitchen<br><br>    King's Head<br><br>    The Estuary<br><br>    Rake &amp; Riddle<br><br>    Beaufort Arms<br><br>    Plough &amp; Harrow<br><br>     <br><br><br><br>Restaurants<br><br><br><br>    Beach House<br><br>    Parc le Breos<br><br>    Langlands Brasserie",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "&nbsp; Blue Pool Bay<br><br>    Bracelet Bay<br><br>    Brandy Cove<br><br>    Broughton Bay<br><br>    Caswell Bay<br><br>    Fall Bay<br><br>    Langland<br><br>    Limeslade<br><br>    Llangennith Sands<br><br>    Mumbles Beach<br><br>    Oxwich<br><br>    Pobbles Bay<br><br>    Port Eynon Bay<br><br>    Pwlldu Bay<br><br>    Rhossili Bay<br><br>    Rotherslade<br><br>    Three Cliffs Bay<br><br>    Tor Bay",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Walks<br><br><br><br>    Rhosili Down, Hillend &amp; Beach walk<br><br>    Rhosili Headland walk<br><br>    Cwm Ivy Woods<br><br>    Bishopston Valley walk<br><br>    Southgate to Three Cliffs<br><br>    Penmaen and Nicholaston Burrows<br><br>    Southgate, Hunts Bay &amp; Pwll Du",
+          "title2": "",
+          "subtitle2": "",
+          "caption2": "<b><br>P</b>ubs<br><br>    Ship Inn<br><br>    Smugglers Beach Bar &amp; Kitchen<br><br>    King Arthur<br><br>    Britannia<br><br>    The Welcome Country Pub &amp; Kitchen<br><br>    King's Head<br><br>    The Estuary<br><br>    Rake &amp; Riddle<br><br>    Beaufort Arms<br><br>    Plough &amp; Harrow<br><br><br>Restaurants<br><br>    Beach House<br><br>    Parc le Breos<br><br>    Langlands Brasserie",
+          "title3": "BEST BEACHES",
+          "subtitle3": "",
+          "caption3": "Blue Pool Bay<br><br>    Bracelet Bay<br><br>    Brandy Cove<br><br>    Broughton Bay<br><br>    Caswell Bay<br><br>    Fall Bay<br><br>    Langland<br><br>    Limeslade<br><br>    Llangennith Sands<br><br>    Mumbles Beach<br><br>    Oxwich<br><br>    Pobbles Bay<br><br>    Port Eynon Bay<br><br>    Pwlldu Bay<br><br>    Rhossili Bay<br><br>    Rotherslade<br><br>    Three Cliffs Bay<br><br>    Tor Bay",
+          "title4": "SELECTION OF WALKS",
+          "subtitle4": "",
+          "caption4": "<br>    Rhosili Down, Hillend &amp; Beach walk<br><br>    Rhosili Headland walk<br><br>    Cwm Ivy Woods<br><br>    Bishopston Valley walk<br><br>    Southgate to Three Cliffs<br><br>    Penmaen and Nicholaston Burrows<br><br>    Southgate, Hunts Bay &amp; Pwll Du",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -6723,7 +6723,12 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-32"
+          "_anchor": "features3-32",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -6811,9 +6816,9 @@
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Activities<br><br><br><br>    Archery &amp; Falconry<br><br>    Climbing<br><br>    Coasteering<br><br>    Cycling<br><br>    Fishing<br><br>    Flying<br><br>    Golf<br><br>    Hang Gliding/Para Gliding<br><br>    Horse riding<br><br>    Paddle boarding<br><br>    Swimming<br><br>    Surf schools<br><br>    Tennis<br><br>    Windsurfing",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Castles<br><br><br><br>    Pennard<br><br>    Oystermouth<br><br>    Weobley<br><br>    Oxwich<br><br>    Penrice<br><br>    Swansea",
+          "title2": "",
+          "subtitle2": "",
+          "caption2": "<br><br>    Pennard<br><br>    Oystermouth<br><br>    Weobley<br><br>    Oxwich<br><br>    Penrice<br><br>    Swansea",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Historic Churches<br><br><br><br>    Port Eynon, St Cattwg<br><br>    Llanmadoc, St Madoc Church<br><br>    Reynoldston, St George Church<br><br>    Penrice,St Illtyd<br><br>    Rhossili, St Mary's Church<br><br>    Nicholaston, St Nicholas Church<br><br>    Penmaen, St John the Baptist Church<br><br>    Bishopston, St Teilo<br><br>    Llanrhidian, St Rhidian and St Illtyd<br><br>",
@@ -6836,7 +6841,15 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-33"
+          "_anchor": "features3-33",
+          "_styles": {
+            "H5": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -6901,7 +6914,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#7e9b9f",
             "fontSize": "0.6",
@@ -6913,7 +6926,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY &nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-c\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-h\" aria-expanded=\"false\">OUR SUITES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-i\" aria-expanded=\"false\">EATING OUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-m\" aria-expanded=\"false\">THINGS TO DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#header3-u\" aria-expanded=\"false\">REVIEWS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#msg-box2-2s\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GOWER GALLERY&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\" target=\"_blank\">GUEST APP<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html#msg-box2-x\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CHECK PRICE &amp; AVAILABILITY</a></li>",
           "logo": {
             "image": {
               "active": true,
